@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: rgb(252, 237, 105);
+}
+
+.gameInfo {
+  left: 35%;
+  text-align: center;
+  position: absolute;
+}
+
+.button_container {
+  display: flex;
+  justify-content: center;
+}
+
+#remove {
+  margin-top: 15px;
+  width: 150px;
+  height: 50px;
+  border: none;
+  background-color: darkblue;
+  color: yellow;
+  border-radius: 20px;
+}
